@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ugtos.github.io/jQv/sitemap.jQv.gz
